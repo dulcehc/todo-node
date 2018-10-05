@@ -1,4 +1,4 @@
-## TODO App with commands
+## TODO App
 
 1. Install packages:
 ```
